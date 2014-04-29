@@ -17,6 +17,10 @@ public class Runtime {
 
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
 				"applicationContext.xml");
+		
+		/**
+		 * Nouveau commentaire pour le commit git
+		 */
 
 		
 		PersonneService personneService = context
